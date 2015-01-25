@@ -1,6 +1,10 @@
-## Put comments here that give an overall description of what your
-## functions do
+## Written by Brian True for Coursera class R Programming 01.24.15
 
+## Function(s): 
+     # makeCacheMatrix
+          # Argument(s): x an (invertable) matrix
+     # cacheSolve
+          # argument(s): x an in
 ## Write a short comment describing this function
 makeCacheMatrix <- function(x = matrix()) {
      i <- NULL
